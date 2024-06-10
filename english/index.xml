@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Englishes on 0ice</title>
-    <link>https://huanglingbing0906.github.io/english/</link>
+    <link>http://localhost:1313/english/</link>
     <description>Recent content in Englishes on 0ice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jun 2024 20:11:17 +0800</lastBuildDate><atom:link href="https://huanglingbing0906.github.io/english/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2024 20:11:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am i</title>
-      <link>https://huanglingbing0906.github.io/english/about/whoami/</link>
+      <link>http://localhost:1313/english/about/whoami/</link>
       <pubDate>Mon, 10 Jun 2024 20:11:17 +0800</pubDate>
       
-      <guid>https://huanglingbing0906.github.io/english/about/whoami/</guid>
+      <guid>http://localhost:1313/english/about/whoami/</guid>
       
         <description>My name is huanglingbing This blog is aim to recording my achieventment in scientific research</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>First Blog</title>
-      <link>https://huanglingbing0906.github.io/english/posts/first-blog/</link>
+      <link>http://localhost:1313/english/posts/first-blog/</link>
       <pubDate>Mon, 10 Jun 2024 19:11:17 +0800</pubDate>
       
-      <guid>https://huanglingbing0906.github.io/english/posts/first-blog/</guid>
+      <guid>http://localhost:1313/english/posts/first-blog/</guid>
       
         <description>Hello world 1.who 2.when 3.how</description>
       
