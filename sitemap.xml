@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://huanglingbing0906.github.io/</loc>
     <lastmod>2024-06-10T20:11:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/</loc>
+    <loc>https://huanglingbing0906.github.io/english/</loc>
     <lastmod>2024-06-10T20:11:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/about/whoami/</loc>
+    <loc>https://huanglingbing0906.github.io/english/about/whoami/</loc>
     <lastmod>2024-06-10T20:11:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/posts/first-blog/</loc>
+    <loc>https://huanglingbing0906.github.io/english/posts/first-blog/</loc>
     <lastmod>2024-06-10T19:11:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://huanglingbing0906.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://huanglingbing0906.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://huanglingbing0906.github.io/tags/</loc>
   </url>
 </urlset>
